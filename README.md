@@ -5,4 +5,4 @@ Algorithms for Deterministic finite automatas (DFA) and Non deterministic finite
 
 ## Collaborator :
 
-@tripincloud
+@Achraf99Jday
